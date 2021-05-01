@@ -2,13 +2,13 @@
 
 ### to run project in watch mode
 
-```npm run build:watch```
+compile to js on change to ts files ```npm run build:watch```
 
-```npm run start:watch```
+restart server when compilation to js files occurs ```npm run start:watch```
 
 ### start without watch
 
-compile js
+compile ts to js
 ```npm run build```
 
 start server
